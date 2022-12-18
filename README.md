@@ -5,4 +5,4 @@
 <a href='https://www.instagram.com/thisisfaridahmad'>Instagram</a>,
 <a href="https://www.twitter.com/itisfaridahmad">Twitter</a>
 <h2 align="center">Also check out my portfolio:</h2>
-<a align="center" href="https://thisisfaridahmad.github.io">Portfolio</a>
+<p align="center"><a href="https://thisisfaridahmad.github.io">Portfolio</a></p>
